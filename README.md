@@ -16,7 +16,8 @@
 </p>
 
 　<p align="center">$\small\color{darkred}\text{" ౨᭪˳ oldi .   he/him/pup  ! "}$𓈒
-　　
+　 <p align="center">$\small\color{red}\text{"ৎ୭ ┈┈・ ✦ ・┈┈ "}$
+</p>
   <p align="center">$\small\color{red}\text{"ৎ୭　offline mostly/bus ! "}$
 </p>
 
