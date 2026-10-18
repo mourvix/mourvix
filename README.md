@@ -20,7 +20,7 @@
 　　　　⏝⏝࡛⏝  ིྀ ⏝࡛⏝⏝
 ৎ୭　link
 
-₍ᐢ._.ᐢ₎♡  　fav people 𓈒
+₍ᐢ._.ᐢ₎♡  <p align="center">$\small\color{pink}\text{" fav ppl:  "}$𓈒 𓈒
 
 <p align="center">$\small\color{grey}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
 </p>
