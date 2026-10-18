@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="divider greeny.png" width="500" alt="Gothic Potrait"/>
+  <img src="divider greeny.png" width="600" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
-  <img src="greeny girl tumblr.png" width="500" alt="Gothic Potrait"/>
+  <img src="greeny girl tumblr.png" width="400" alt="Gothic Potrait"/>
 </p>
 
 
 <p align="center">
-  <img src="divider greeny 2.png" width="500" alt="Gothic Potrait"/>
+  <img src="divider greeny 2.png" width="600" alt="Gothic Potrait"/>
 </p>
 
 <p align="right">
