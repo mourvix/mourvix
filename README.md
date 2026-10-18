@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="tumblr 1.webp" width="500" alt="Gothic Potrait"/>
+  <img src="tumblr black and white.png="500" alt="Gothic Potrait"/>
 </p>
 
 
