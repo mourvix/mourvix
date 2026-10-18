@@ -11,8 +11,7 @@
   <img src="red divider 2.png" width="500" alt="Gothic Potrait"/>
 </p>
 
-<p align="right">
-  <img src="greeny girl tumblr 3.png" width="300" alt="Gothic Potrait"/>
+
  <p align="center">$\small\color{red}\text{ name ⤷   𓈒  ₒᵣ .  ! }$
 </p>
 
@@ -25,8 +24,7 @@
 <p align="center">$\small\color{red}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
 </p>
 
-<p align="left">
-  <img src="greeny girl tumblr.png" width="300" alt="Gothic Potrait"/>
+
 
 
 
