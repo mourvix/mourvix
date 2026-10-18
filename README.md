@@ -12,7 +12,7 @@
 </p>
 
 
- <p align="center">$\small\color{red}\text{ zany ⤷   𓈒  ₒᵣ . mourvix  ! }$
+ <p align="center">$\small\color{red}\text{ z ⤷   𓈒  ₒᵣ . mourvix  ! }$
 </p>
 
 　<p align="center">$\small\color{darkred}\text{" ౨᭪˳ oldi .   he/him/pup  ! "}$𓈒
