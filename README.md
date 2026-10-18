@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="greeny girl tumblr.png" width="400" alt="Gothic Potrait"/>
+  <img src="greeny girl tumblr 2.png" width="400" alt="Gothic Potrait"/>
 </p>
 
 
@@ -12,7 +12,7 @@
 </p>
 
 <p align="right">
-  <img src="greeny girl tumblr 2.png" width="300" alt="Gothic Potrait"/>
+  <img src="greeny girl tumblr 3.png" width="300" alt="Gothic Potrait"/>
  <p align="center">$\small\color{cyan}\text{ name ⤷   𓈒  ₒᵣ .  ! }$
 </p>
 
@@ -26,4 +26,4 @@
 </p>
 
 <p align="left">
-  <img src="tumblr 2 (2).webp" width="300" alt="Gothic Potrait"/>
+  <img src="greeny girl tumblr.png" width="300" alt="Gothic Potrait"/>
