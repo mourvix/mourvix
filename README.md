@@ -17,7 +17,7 @@
 
 　<p align="center">$\small\color{darkred}\text{" ౨᭪˳ oldi .   he/him/pup  ! "}$𓈒
 　　　　⏝⏝࡛⏝  ིྀ ⏝࡛⏝⏝
-ৎ୭　link
+ৎ୭　offline mostly/busy
 
   <p align="center">$\small\color{red}\text{" fav ppl: v, s, z, m, l, ext.  "}$𓈒 𓈒
 
