@@ -23,7 +23,7 @@
 
   <p align="center">$\small\color{red}\text{" fav ppl: v, s, z, m, l, ext.  "}$𓈒 𓈒
 
-<p align="center">$\small\color{red}\text{"blocking freely don't do stupid shi ! "}$
+<p align="center">$\small\color{red}\text{"blocking freely don't do stupid shit ! "}$
 </p>
 creds to prieastful on tumblr.
 
