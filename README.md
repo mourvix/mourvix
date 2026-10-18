@@ -13,7 +13,9 @@
 
 <p align="center">
   <img src="sword..png" width="400" alt="Gothic Potrait"/>
-⤷   𓈒  ₒᵣ **name**  𓂃⏦
+⤷   𓈒  ₒᵣ <p align="center">$\small\color{light blue}\text{ name .  ! }$
+</p>
+  𓂃⏦
 　　౨᭪˳<p align="center">$\small\color{pink}\text{"age .   info  ! "}$𓈒
 　　　　⏝⏝࡛⏝  ིྀ ⏝࡛⏝⏝
 ৎ୭　link
