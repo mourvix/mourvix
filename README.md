@@ -12,7 +12,7 @@
 </p>
 
 <p align="right">
-  <img src="divider greeny 2.png" width="300" alt="Gothic Potrait"/>
+  <img src="greeny girl tumblr 2.png" width="300" alt="Gothic Potrait"/>
  <p align="center">$\small\color{cyan}\text{ name ⤷   𓈒  ₒᵣ .  ! }$
 </p>
 
