@@ -12,16 +12,16 @@
 </p>
 
 
- <p align="center">$\small\color{red}\text{ name ⤷   𓈒  ₒᵣ .  ! }$
+ <p align="center">$\small\color{red}\text{ zany ⤷   𓈒  ₒᵣ . mourvix  ! }$
 </p>
 
-　<p align="center">$\small\color{darkred}\text{" ౨᭪˳ age .   info  ! "}$𓈒
+　<p align="center">$\small\color{darkred}\text{" ౨᭪˳ oldi .   he/him/pup  ! "}$𓈒
 　　　　⏝⏝࡛⏝  ིྀ ⏝࡛⏝⏝
 ৎ୭　link
 
-  <p align="center">$\small\color{red}\text{" fav ppl:  "}$𓈒 𓈒
+  <p align="center">$\small\color{red}\text{" fav ppl: v, s, z, m, l, ext.  "}$𓈒 𓈒
 
-<p align="center">$\small\color{red}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
+<p align="center">$\small\color{red}\text{"blocking freely don't do stupid sh_t ! "}$
 </p>
 
 
