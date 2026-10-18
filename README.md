@@ -16,7 +16,7 @@
 ⤷   𓈒  ₒᵣ <p align="center">$\small\color{cyan}\text{ name .  ! }$
 </p>
   𓂃⏦
-　　౨᭪˳<p align="center">$\small\color{pink}\text{"age .   info  ! "}$𓈒
+　　౨᭪˳<p align="center">$\small\color{pink}\text{" ౨᭪˳ age .   info  ! "}$𓈒
 　　　　⏝⏝࡛⏝  ིྀ ⏝࡛⏝⏝
 ৎ୭　link
 
