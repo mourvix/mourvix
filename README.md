@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="divider tumblr 5.png" width="500" alt="Gothic Potrait"/>
+  <img src="greeny girl tumblr.png" width="500" alt="Gothic Potrait"/>
 </p>
 
 <p align="right">
