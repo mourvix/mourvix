@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="tumblr 3.png" width="400" alt="Gothic Potrait"/>
+  <img src="tumblr 4.png" width="400" alt="Gothic Potrait"/>
  <p align="center">$\small\color{cyan}\text{ name ⤷   𓈒  ₒᵣ .  ! }$
 </p>
 
