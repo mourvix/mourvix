@@ -24,3 +24,6 @@
 
 <p align="center">$\small\color{grey}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
 </p>
+
+<p align="left">
+  <img src="tumblr 2(2).webp" width="300" alt="Gothic Potrait"/>
