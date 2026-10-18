@@ -28,5 +28,5 @@
 <p align="left">
   <img src="greeny girl tumblr.png" width="300" alt="Gothic Potrait"/>
 
-![Red Text](https://via.placeholder.com/150/FF0000/FFFFFF?text=Hello)
+![Red Text](https://via.placeholder.com/150/000000/FFFFFFtext=Hello)
 
