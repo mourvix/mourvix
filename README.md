@@ -28,4 +28,4 @@
 <p align="left">
   <img src="greeny girl tumblr.png" width="300" alt="Gothic Potrait"/>
 
-$$\color{red}{This\ text\ is\ blue}$$
+
