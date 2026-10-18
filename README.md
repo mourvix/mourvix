@@ -20,13 +20,13 @@
 　　　　⏝⏝࡛⏝  ིྀ ⏝࡛⏝⏝
 ৎ୭　link
 
-  <p align="center">$\small\color{cyan}\text{" fav ppl:  "}$𓈒 𓈒
+  <p align="center">$\small\color{dark red}\text{" fav ppl:  "}$𓈒 𓈒
 
-<p align="center">$\small\color{grey}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
+<p align="center">$\small\color{red}\text{"I'm mostly busy so I probably won't be seen much anymore. heres me though ! "}$
 </p>
 
 <p align="left">
   <img src="greeny girl tumblr.png" width="300" alt="Gothic Potrait"/>
 
-![Red Text](https://via.placeholder.com/150/000000/FFFFFFtext=Hello)
+
 
