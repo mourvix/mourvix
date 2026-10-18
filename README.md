@@ -21,7 +21,7 @@
 
   <p align="center">$\small\color{red}\text{" fav ppl: v, s, z, m, l, ext.  "}$𓈒 𓈒
 
-<p align="center">$\small\color{red}\text{"blocking freely don't do stupid sh_t ! "}$
+<p align="center">$\small\color{red}\text{"blocking freely don't do stupid shi ! "}$
 </p>
 
 
