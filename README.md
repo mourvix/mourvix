@@ -15,7 +15,7 @@
  <p align="center">$\small\color{red}\text{ zany ⤷   𓈒  ₒᵣ . mourvix  ! }$
 </p>
 
-　<p align="center">$\small\color{darkred}\text{" ౨᭪˳ oldi .   he/him/pup  ! "}$𓈒
+　<p align="right">$\small\color{darkred}\text{" ౨᭪˳ oldi .   he/him/pup  ! "}$𓈒
 　　　　⏝⏝࡛⏝  ིྀ ⏝࡛⏝⏝
 ৎ୭　offline mostly/busy
 
