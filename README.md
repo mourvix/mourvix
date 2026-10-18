@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="divider greeny.png" width="500" alt="Gothic Potrait"/>
+  <img src="red divider.png" width="500" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
-  <img src="greeny girl tumblr 2.png" width="400" alt="Gothic Potrait"/>
+  <img src="red.png" width="400" alt="Gothic Potrait"/>
 </p>
 
 
 <p align="center">
-  <img src="divider greeny 2.png" width="500" alt="Gothic Potrait"/>
+  <img src="red divider 2.png" width="500" alt="Gothic Potrait"/>
 </p>
 
 <p align="right">
   <img src="greeny girl tumblr 3.png" width="300" alt="Gothic Potrait"/>
- <p align="center">$\small\color{cyan}\text{ name ⤷   𓈒  ₒᵣ .  ! }$
+ <p align="center">$\small\color{red}\text{ name ⤷   𓈒  ₒᵣ .  ! }$
 </p>
 
 　<p align="center">$\small\color{purple}\text{" ౨᭪˳ age .   info  ! "}$𓈒
@@ -28,4 +28,5 @@
 <p align="left">
   <img src="greeny girl tumblr.png" width="300" alt="Gothic Potrait"/>
 
+![Red Text](https://via.placeholder.com/150/FF0000/FFFFFF?text=Hello)
 
