@@ -26,4 +26,4 @@
 </p>
 
 <p align="left">
-  <img src="tumblr 2(2).webp" width="300" alt="Gothic Potrait"/>
+  <img src="tumblr 2 (2).webp" width="300" alt="Gothic Potrait"/>
