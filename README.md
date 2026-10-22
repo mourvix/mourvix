@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="morty.png" width="800" alt="Gothic Potrait"/>
+  <img src="morty.png" width="700" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
-  <img src="morty.webp" width="700" alt="Gothic Potrait"/>
+  <img src="morty.webp" width="600" alt="Gothic Potrait"/>
 </p>
 
 
 <p align="center">
-  <img src="morty (2).png" width="800" alt="Gothic Potrait"/>
+  <img src="morty (2).png" width="700" alt="Gothic Potrait"/>
 </p>
 
 
