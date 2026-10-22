@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="red divider.png" width="800" alt="Gothic Potrait"/>
+  <img src="morty.png" width="800" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">
-  <img src="red.png" width="700" alt="Gothic Potrait"/>
+  <img src="morty.webp" width="700" alt="Gothic Potrait"/>
 </p>
 
 
 <p align="center">
-  <img src="red divider 2.png" width="800" alt="Gothic Potrait"/>
+  <img src="morty(2).png" width="800" alt="Gothic Potrait"/>
 </p>
 
 
