@@ -26,7 +26,7 @@
 </p>
 
 
-"I'll probably use this just to design my github read.mes for fun aswell."
+
 
 
 
