@@ -12,7 +12,7 @@
 </p>
 
 <p align="right">
-  <img src="deer.png" width="300" alt="Gothic Potrait"/>
+  <img src="morty yesyes.png" width="300" alt="Gothic Potrait"/>
 </p>
 
 <p align="center">$\small\color{brown}\text{MOURVIXY}$
