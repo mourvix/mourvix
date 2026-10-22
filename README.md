@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="morty(2).png" width="800" alt="Gothic Potrait"/>
+  <img src="morty (2).png" width="800" alt="Gothic Potrait"/>
 </p>
 
 
