@@ -24,6 +24,7 @@
 
 <p align="center">$\small\color{white}\text{"ALT ACCOUNT OR FOR SOMETHING ELSE.   "}$
 </p>
+"I'll probably use this just to design my github read.mes for fun aswell."
 
 
 
