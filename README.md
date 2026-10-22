@@ -22,7 +22,7 @@
 
   <p align="center">$\small\color{brown}\text{" fav ppl: v, s, z, m, l, ext.  "}$𓈒 𓈒
 
-<p align="center">$\small\color{white}\text{"ALT ACCOUNT OR FOR SOMETHING ELSE.   "}$
+<p align="center">$\small\color{white}\text{"ALT ACCOUNT OR FOR SOMETHING ELSE. creds to cosmichorror  "}$
 </p>
 
 
