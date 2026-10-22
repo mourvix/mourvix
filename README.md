@@ -12,8 +12,7 @@
 </p>
 
 
- <p align="center">$\small\colorbrown}\text{ z ⤷   𓈒  ₒᵣ . mourvix  ! }$
-</p>
+<p align="center">$\small\color{brown}\text{MOURVIXY}$
 
 　 <p align="center">$\small\color{brown}\text{he/him/pup}$
 　 <p align="center">$\small\color{brown}\text{"ৎ୭ ┈┈・ ✦ ・┈┈ "}$
