@@ -15,7 +15,7 @@
  <p align="center">$\small\colorbrown}\text{ z ⤷   𓈒  ₒᵣ . mourvix  ! }$
 </p>
 
-　<p align="center">$\small\color{white\text{" ౨᭪˳ he/him/pup.  ! "}$𓈒
+　 <p align="center">$\small\color{brown}\text{he/him/pup}$
 　 <p align="center">$\small\color{brown}\text{"ৎ୭ ┈┈・ ✦ ・┈┈ "}$
 </p>
   <p align="center">$\small\color{white}\text{"ৎ୭　offline mostly/bus ! "}$
