@@ -11,6 +11,9 @@
   <img src="morty (2).png" width="700" alt="Gothic Potrait"/>
 </p>
 
+<p align="right">
+  <img src="deer.png" width="300" alt="Gothic Potrait"/>
+</p>
 
 <p align="center">$\small\color{brown}\text{MOURVIXY}$
 
@@ -26,9 +29,6 @@
 </p>
 
 
-<p align="center">
-  <img src="deer.png" width="700" alt="Gothic Potrait"/>
-</p>
 
 
 
