@@ -1,5 +1,5 @@
  <kbd>
-  <img src="pup.png" width="600" alt="Profile Mascot">
+  <img src="pup.jpg" width="600" alt="Profile Mascot">
 
 
 
