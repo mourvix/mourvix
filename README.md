@@ -10,7 +10,7 @@
 <tr>
 <td valign="top" width="220">
   <!-- Left Side: Character Image -->
-  <img src="YOUR_CHARACTER_IMAGE_URL_HERE" width="200">
+  <img src="pup boy.png" width="200">
 </td>
 <td valign="top">
   <!-- Right Side: Profile Details -->
