@@ -7,3 +7,5 @@
 <img src="divid hehe.webp" width="600" align="center" style="margin: 10px;">
 
 ![၇ৎㅤ˖ㅤ࣪loves](https://komarev.com/ghpvc/?username=darkqngelz)
+
+not gonna be following too fast okay?
