@@ -8,5 +8,3 @@
 
 ![၇ৎㅤ˖ㅤ࣪loves](https://komarev.com/ghpvc/?username=darkqngelz)
 
-not gonna be following too fast okay?
-take ur time on following u dont have to immediately follow or anything if ur uncomfortorable
